@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(152, 168, 136);
+    text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+
+   h1{
+    color: rgb(39, 83, 83);
+   }
+   #t2{color: grey;
+
+
+   }
+   .color{
+    background-color: rgb(170, 172, 192);
+
+   }
+img{
+    width: 500px;
+}
+ form{
+    margin: 0 auto;
+    width: fit-content;
+ }   
+    
+}
+
+    #sobre{
+        background-color: rgba(226, 226, 226, 0.658);
+
+    }
+    
+    b{
+        color: rgb(155, 186, 212);
+    }
+
+    d{
+        color: rgb(110, 175, 218);
+    }
+
+    #sobre{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: 0;
+    }
+    body{
+        width: 100vw;
+        height: auto;
+        background-image: url(https://getwallpapers.com/wallpaper/full/d/2/e/1016663-download-minecraft-background-2560x1440-ipad.jpg);
+    }
+produto-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+@media screen and (max-width: 768px) {
+    .produto-container{
+        flex-direction: column;
+    }
+} 
+    
+
+
+
+    
+        
+    
